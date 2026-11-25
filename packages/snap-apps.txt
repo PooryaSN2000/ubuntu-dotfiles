@@ -1,0 +1,9 @@
+antigravity
+antigravity-cli
+code
+firefox
+hwctl
+onlyoffice-desktopeditors
+spotify
+telegram-desktop
+vlc

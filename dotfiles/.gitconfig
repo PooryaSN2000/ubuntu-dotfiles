@@ -1,0 +1,7 @@
+[user]
+	name = PooryaSN2000
+	email = Pooryasaneei79@gmail.com
+[credential]
+	helper = store
+[http]
+	version = HTTP/1.1

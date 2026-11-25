@@ -1,0 +1,16 @@
+# OS & Editor artifacts
+.DS_Store
+Thumbs.db
+*~
+*.swp
+*.bak.*
+
+# Never commit secrets, keys, or credentials
+*.key
+*.pem
+.env
+.env.*
+.git-credentials
+id_rsa*
+id_ed25519*
+*.token

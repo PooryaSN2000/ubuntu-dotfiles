@@ -1,0 +1,13 @@
+Bluetooth-Battery-Meter@maniacx.github.com
+blur-my-shell@aunetx
+caffeine@patapon.info
+clipboard-indicator@tudmotu.com
+compiz-alike-magic-lamp-effect@hermes83.github.com
+compiz-windows-effect@hermes83.github.com
+dash2dock-lite@icedman.github.com
+gsconnect@andyholmes.github.io
+just-perfection-desktop@just-perfection
+media-controller@naimur
+modernclock@gnome-port
+tilingshell@ferrarodomenico.com
+Vitals@CoreCoding.com
